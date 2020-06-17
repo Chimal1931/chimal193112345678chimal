@@ -33,7 +33,7 @@
                 </div>
                 <div class="card-footer">
                   <div class="stats">
-                   <i class="material-icons">date_range</i> <a class="update" id="1" title="EDITAR MENU" > EDITAR MENU</a>
+                   <i class="material-icons">date_range</i> <a class="update" id="1" title="EDITAR MENU" > EDITAR MENU MARTA</a>
                   </div>
                 </div>
               </div>
