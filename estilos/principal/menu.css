@@ -1,0 +1,158 @@
+body{
+font-family: 'Roboto', sans-serif;
+}
+
+
+.navbar{
+	font-family: 'Roboto', sans-serif;
+	background-color: #FFFFFF;
+	box-shadow: 0 2px 4px 0 rgba(0, 0, 0, .05);
+	min-height: 100px;
+}
+.firstnamefactory{
+	color:#D351F9;
+}
+.firstnamefactory:hover{
+	color:#D351F9;
+}
+.namefactory{
+	color:#F951CE;
+}
+.nav-link{ 
+	color: #D351F9;
+ }
+.cent{
+	border:1px solid #D351F9;
+	border-radius: 15px;
+}
+.nav-link:hover{
+	 color:#F951CE;
+}
+.logo-brand{
+	min-width: 160px;
+	max-width:180px;
+}
+.navbar-toggler{
+	font-size: 1px;
+}
+.navbar-toggler:focus{
+	outline:none;
+}
+#hero{
+	background-image: url('../../images/ba.png');
+
+
+	background-size: cover;
+	padding-top:96px;
+	min-height:450px;
+}
+
+
+.content-center{
+	max-height: 600px;
+	border:4px auto solid #D351F9;
+	border-radius: 15px auto;
+	margin:0 auto 60px auto;
+	text-align:center;
+}
+
+#hero p{
+	font-size:28px;
+	color:#ffffff;
+	line-height: 1.8;
+	margin-bottom: 0;
+}
+
+#hero h1{
+	font-size:40px;
+	font-weight: 700px;
+	line-height:80px 
+}
+.btn{
+font-size:15px;
+padding: 15px 26px;
+min-width: 160px;
+border-radius: 2px;
+display: inline-block;
+}
+.btn-light{
+	background-color: #F951CE;
+	color: #ffffff;
+	border:2px solid #F951CE;
+}
+.btn-light:hover{
+  background-color: #D351F9;
+  transition: background-color .6s;
+  color:#ffffff;
+  	border:2px solid #D351F9;
+
+}
+.topmargin-sm{
+	margin-top:30px;
+}
+
+#disenosunicos{
+	margin-top:30px;
+	color: #F951CE;
+	border-radius: 23px;
+	background-image: url('../../images/backgroundbotones.jpg');
+
+}
+.btndetallecompra{
+font-size:15px;
+padding: 10px 10px;
+min-width: 160px;
+border-radius: 2px;
+padding-right: 10px;
+}
+.btn-lighte{
+	background-color: #D351F9;
+	color: #ffffff;
+	border:2px solid #D351F9;
+	border-radius: 12px;
+
+}
+.btn-lighte:hover{
+  background-color: #F951CE;
+  transition: background-color .6s;
+  color:#ffffff;
+  border:2px solid #F951CE;
+
+}
+.detallebtn{
+		border-radius: 12px;
+
+}
+.card{
+	  border:2px solid #F951CE;
+
+}
+.c{
+	max-width: 100%;s
+}
+
+.col-md-3{
+  display: inline-block;
+  margin-left:-4px;
+}
+.col-md-3 img{
+  width:100%;
+  height:auto;
+}
+ .carousel-indicators li{
+  background-color:red;
+}
+ .carousel-indicators{
+  bottom: 0;
+}
+ .carousel-control-prev-icon,
+.carousel-control-next-icon{
+  background-color:red;
+}
+ .no-padding{
+  padding-left: 0;
+  padding-right: 0;
+  }
+.d-none {
+	height: 500px;
+}
